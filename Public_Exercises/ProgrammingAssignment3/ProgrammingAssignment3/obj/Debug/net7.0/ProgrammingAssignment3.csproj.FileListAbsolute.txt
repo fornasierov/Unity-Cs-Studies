@@ -1,0 +1,17 @@
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/ProgrammingAssignment3.csproj.AssemblyReference.cache
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/ProgrammingAssignment3.GeneratedMSBuildEditorConfig.editorconfig
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/ProgrammingAssignment3.AssemblyInfoInputs.cache
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/ProgrammingAssignment3.AssemblyInfo.cs
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/ProgrammingAssignment3.csproj.CoreCompileInputs.cache
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/net7.0/ProgrammingAssignment3
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/net7.0/ProgrammingAssignment3.deps.json
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/net7.0/ProgrammingAssignment3.runtimeconfig.json
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/net7.0/ProgrammingAssignment3.dll
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/net7.0/ProgrammingAssignment3.pdb
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/bin/Debug/net7.0/ConsoleCards.dll
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/ProgrammingAssignment3.csproj.CopyComplete
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/ProgrammingAssignment3.dll
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/refint/ProgrammingAssignment3.dll
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/ProgrammingAssignment3.pdb
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/ProgrammingAssignment3.genruntimeconfig.cache
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/Debug/net7.0/ref/ProgrammingAssignment3.dll

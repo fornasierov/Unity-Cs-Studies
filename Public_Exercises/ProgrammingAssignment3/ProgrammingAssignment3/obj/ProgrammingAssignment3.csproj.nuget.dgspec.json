@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/ProgrammingAssignment3.csproj": {}
+  },
+  "projects": {
+    "/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/ProgrammingAssignment3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/ProgrammingAssignment3.csproj",
+        "projectName": "ProgrammingAssignment3",
+        "projectPath": "/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/ProgrammingAssignment3.csproj",
+        "packagesPath": "/home/fornav/.nuget/packages/",
+        "outputPath": "/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment3/ProgrammingAssignment3/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/fornav/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/home/fornav/.dotnet/sdk/7.0.403/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -39,3 +39,15 @@ float degreesFromRadians = radians * (float)(180 / Math.PI);
 // Print the result the way the instruction says (distance -> single space -> angle)
 Console.WriteLine(distance + " " + degreesFromRadians);
 ```
+
+# How to use classes and objects in game development
+
+They can be used to capture a state, behavior, identity, and so on. A good way to represent these ideas is to visually depict the "place" of all object-oriented contexts for a given object:
+
+![object-oriented-context](figures/object-oriented-contexts.png)
+
+Reference: [C# Programming for Unity Game Development Specialization](https://www.coursera.org/specializations/programming-unity-game-development)
+
+We can also use UML to represent stuff (classes and objects) in the game development world. 
+
+In Unity, when we create a script, we are creating a class. We can then attach said class to a game object; if we do, that game object get an instance of that class. 

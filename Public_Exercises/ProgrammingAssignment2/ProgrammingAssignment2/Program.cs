@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.Design;
 
 namespace ProgrammingAssignment2
 {
@@ -36,7 +37,16 @@ namespace ProgrammingAssignment2
                 // course add more space between the
                 // comments as needed
 
+                float squaredDeltaX = (float)Math.Pow((point2X-point1X),2);
+                float squaredDeltaY = (float)Math.Pow((point2Y-point1Y),2);
 
+                float distance = (float)Math.Sqrt(squaredDeltaY+squaredDeltaX);
+
+                float radians  = (float)Math.Atan2((point2Y-point1Y), (point2X-point1X));
+
+                float degreesFromRadians = radians * (float)(180 / Math.PI);
+
+                Console.WriteLine(distance + " " + degreesFromRadians);
 
                 // Don't add or modify any code below
                 // this comment

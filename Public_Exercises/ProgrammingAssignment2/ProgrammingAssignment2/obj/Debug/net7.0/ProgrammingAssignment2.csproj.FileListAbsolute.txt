@@ -1,0 +1,14 @@
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/net7.0/ProgrammingAssignment2
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/net7.0/ProgrammingAssignment2.deps.json
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/net7.0/ProgrammingAssignment2.runtimeconfig.json
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/net7.0/ProgrammingAssignment2.dll
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/bin/Debug/net7.0/ProgrammingAssignment2.pdb
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net7.0/ProgrammingAssignment2.GeneratedMSBuildEditorConfig.editorconfig
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net7.0/ProgrammingAssignment2.AssemblyInfoInputs.cache
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net7.0/ProgrammingAssignment2.AssemblyInfo.cs
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net7.0/ProgrammingAssignment2.csproj.CoreCompileInputs.cache
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net7.0/ProgrammingAssignment2.dll
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net7.0/refint/ProgrammingAssignment2.dll
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net7.0/ProgrammingAssignment2.pdb
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net7.0/ProgrammingAssignment2.genruntimeconfig.cache
+/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/Debug/net7.0/ref/ProgrammingAssignment2.dll

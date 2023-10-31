@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net7.0": []
   },
   "packageFolders": {
     "/home/fornav/.nuget/packages/": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/fornav/Documents/Code/Unity-Cs-Studies/Private_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/ProgrammingAssignment2.csproj",
+      "projectUniqueName": "/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/ProgrammingAssignment2.csproj",
       "projectName": "ProgrammingAssignment2",
-      "projectPath": "/home/fornav/Documents/Code/Unity-Cs-Studies/Private_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/ProgrammingAssignment2.csproj",
+      "projectPath": "/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/ProgrammingAssignment2.csproj",
       "packagesPath": "/home/fornav/.nuget/packages/",
-      "outputPath": "/home/fornav/Documents/Code/Unity-Cs-Studies/Private_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/",
+      "outputPath": "/home/fornav/Documents/Code/Unity-Cs-Studies/Public_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/fornav/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net7.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "imports": [
           "net461",
           "net462",
@@ -54,20 +54,6 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Ref",
-            "version": "[6.0.24, 6.0.24]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[6.0.24, 6.0.24]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Ref",
-            "version": "[6.0.24, 6.0.24]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"

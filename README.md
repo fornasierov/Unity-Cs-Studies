@@ -72,7 +72,23 @@ export DOTNET_ROOT=$HOME/.dotnet
 export PATH=$PATH:$DOTNET_ROOT:$DOTNET_ROOT/tools
 ```
 
-9. Install mono package to compile and run C# code:
+9. To ensure .NET is correctly installed and that VS-Code can see it, reboot your machine and then open VS-Code
+
+10. Inside VS-Code open the terminal, then open a folder with, create and run a C# code file (F5 ou Fn+F5). In the output tab you should see the following:
+
+```
+Using dotnet configured on PATH
+Dotnet path: /home/fornav/.dotnet/dotnet
+Activating C# standalone...
+waiting for named pipe information from server...
+[stdout] {"pipeName":"/tmp/b8b43f34-fcd1-4eb3-92ea-c60d614a8799.sock"}
+received named pipe information from server
+attempting to connect client to server...
+client has connected to server
+[Info  - 10:52:25 PM] [Program] Language server initialized
+```
+
+Installing mono (if you want):
 
 ```bash
 sudo apt install gnupg ca-certificates
@@ -112,4 +128,4 @@ The recommended way to run C# code will be via C# Dev Kit inside VS-Code or insi
 
 ## This repo
 
-This repository contains my personal studies about C# and Unity game development. Because I'm using resources from paid courses, I have divided every exercise and Unity project in two folders each: public and private. Private folders wont be pushed to this public repository (see `.gitignore`).
+This repository contains my personal studies about C# and Unity game development. I have divided every exercise and Unity project in two folders each: public and private. Private folders wont be pushed to this public repository (see `.gitignore`).

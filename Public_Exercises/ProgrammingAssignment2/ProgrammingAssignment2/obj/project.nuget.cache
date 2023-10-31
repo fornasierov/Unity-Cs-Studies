@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "QRJtu9ba5/wcHkIVcpza3scJaWm9RrA5pKwB6R3yHSosDijHJVNxsdWI1iwxQ4hTbY4mWuTWNGDEHtFpVvgY4A==",
+  "success": true,
+  "projectFilePath": "/home/fornav/Documents/Code/Unity-Cs-Studies/Private_Exercises/ProgrammingAssignment2/ProgrammingAssignment2/ProgrammingAssignment2.csproj",
+  "expectedPackageFiles": [
+    "/home/fornav/.nuget/packages/microsoft.netcore.app.ref/6.0.24/microsoft.netcore.app.ref.6.0.24.nupkg.sha512",
+    "/home/fornav/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.24/microsoft.aspnetcore.app.ref.6.0.24.nupkg.sha512",
+    "/home/fornav/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.24/microsoft.netcore.app.host.linux-x64.6.0.24.nupkg.sha512"
+  ],
+  "logs": []
+}

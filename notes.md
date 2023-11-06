@@ -51,3 +51,33 @@ Reference: [C# Programming for Unity Game Development Specialization](https://ww
 We can also use UML to represent stuff (classes and objects) in the game development world. 
 
 In Unity, when we create a script, we are creating a class. We can then attach said class to a game object; if we do, that game object get an instance of that class. 
+
+# Sprites and game objects
+
+Sprite are graphical assets and can be:
+- A simple frame
+- A set of frames, also called sprite sheets (animation)
+
+Game objects are entities included in the scenes. 
+
+To add a sprite to a Unity project:
+1. It is better to first create a folder called "Sprites" inside the "Assets" directory
+2. Once you have created that folder, we can simply drag and drop image files to it (`.png` most of the time)
+
+To add that sprite as a game object, we can simply drag the image in the "Project" tab to the "Hierarchy" tab, inside some scene.
+
+A good tip when trying to find the right size for a sprite is to never actually change the size of the sprite (X, Y, and Z), beucase it will mess up the image quality and also some aspects of the game object. What we want to do is change the "Size" of the camera, decreasing it to increase the size of the sprite or increasing it to decrease the size of the sprite.
+
+Another great tip is to always make the dimensions of a sprite or texture a power of 2 because of graphics card efficiency.
+
+# Scripts as components
+
+A cool exercise is adding a script to a game object, which is a sprite. A good tip here is when we create a new script in the Unity UI, and we decide to change it's name, it is necessary to also open the script and change the class name, because it will have the same name the file had when it was created.
+
+Another good tip is when you attach a script to a game object while running the game, you will see the result of that script, but as soons as you stop the game, you will see that the script is no longer attached to that game object. That's because Unity understands you were just debugging stuff in the previous run sessions. To make that action permanent, you need to attach the script to a game object while the game is not running.
+
+# Debugging a Unity script using Unity and VS-Code
+
+1. Inside VS-Code, we can start a debugging section placing a breakpoint where you want it
+2. Find the Attatch do Unity button
+
